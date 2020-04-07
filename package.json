@@ -1,0 +1,29 @@
+{
+  "name": "quotes-project",
+  "version": "1.0.0",
+  "description": "nodejs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ortegamiguel/quotes-project.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "miguel ortega",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ortegamiguel/quotes-project/issues"
+  },
+  "homepage": "https://github.com/ortegamiguel/quotes-project#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
